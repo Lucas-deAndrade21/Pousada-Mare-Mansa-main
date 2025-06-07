@@ -1,0 +1,44 @@
+[
+    {
+        "data": "2025-06-06 22:59:50",
+        "usuario": "Sistema",
+        "acao": "Conexão estabelecida com sucesso.",
+        "tela": "banco.py",
+        "tipo": "INFO"
+    },
+    {
+        "data": "2025-06-06 23:03:00",
+        "usuario": "Sistema",
+        "acao": "Falha ao realizar login",
+        "tela": "Login.py",
+        "tipo": "ERROR"
+    },
+    {
+        "data": "2025-06-06 23:03:16",
+        "usuario": "Sistema",
+        "acao": "Falha ao realizar login",
+        "tela": "Login.py",
+        "tipo": "ERROR"
+    },
+    {
+        "data": "2025-06-06 23:04:40",
+        "usuario": "Sistema",
+        "acao": "Conexão estabelecida com sucesso.",
+        "tela": "banco.py",
+        "tipo": "INFO"
+    },
+    {
+        "data": "2025-06-06 23:04:49",
+        "usuario": "Sistema",
+        "acao": "login bem sucedido",
+        "tela": "Login.py",
+        "tipo": "INFO"
+    },
+    {
+        "data": "2025-06-06 23:06:25",
+        "usuario": "Sistema",
+        "acao": "Conexão encerrada.",
+        "tela": "banco.py",
+        "tipo": "INFO"
+    }
+]
